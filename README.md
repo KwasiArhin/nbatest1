@@ -5,4 +5,4 @@ All code is written in Python using the Jupyter Notebooks which allow live previ
 
 
 ##2018-19 Season
- Big James Harden  analysis, notebook
+* Big James Harden analysis, [notebook](https://github.com/KwasiArhin/nbatest1/blob/master/James%20HARDEN%20SCORE%20DIST.ipynb)
